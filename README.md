@@ -1,3 +1,4 @@
 # naif
 
-Examples of NAIF SPICE tutorials and projects
+Examples of personal NAIF SPICE tutorials and projects
+
